@@ -2,6 +2,8 @@
 
 > Awesome Lists about Startups.
 
+---
+
 ## 1. Company Name
 
 ---
