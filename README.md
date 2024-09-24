@@ -122,7 +122,7 @@
 
 ---
 
-## 6. Company Process Management
+## 6. Company Management
 
 1. 公司的流程设计
 
